@@ -41,3 +41,7 @@ main p {
     border-radius:10px;
     background-color:yellow;
 }
+
+footer br{
+    background-color:white;
+}
