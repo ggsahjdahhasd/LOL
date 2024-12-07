@@ -1,0 +1,43 @@
+body {
+    background-color:darkgray;
+}
+
+h1 {
+    color:darkcyan;
+    font-family:Tahoma;
+    text-align:center;
+}
+
+h2 {
+    color:darkcyan;
+    font-family:Tahoma;
+     border:3px solid navy;
+    border-radius:10px;
+    text-align:center;
+}
+
+nav a {
+    margin: 20px;
+    font-size:20px;
+    text-decoration:none;
+    color:white;
+    border:3px solid navy;
+    border-radius:10px;
+    background-color:navy;
+}
+
+.inferno {
+    background-color: white;
+    color:royalblue;
+}
+
+td, tr {
+    border:2px solid yellow;
+
+}
+
+main p {
+    border:3px solid yellow;
+    border-radius:10px;
+    background-color:yellow;
+}
