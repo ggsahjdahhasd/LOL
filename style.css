@@ -42,7 +42,7 @@ main p {
     background-color:yellow;
 }
 
-footer br{
+footer td{
     border:3px solid white;
     background-color:white;
     border-radius:10px;
